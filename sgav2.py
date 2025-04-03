@@ -97,7 +97,6 @@ class FaltasSpider:
                 materias_faltas.append(valores)
         
         # NOVA ABORDAGEM PARA EXTRAIR NOTAS
-        # Vamos usar o mesmo método original, mas com um controle para evitar duplicações
         
         # Conjunto para armazenar notas já processadas
         notas_processadas = set()

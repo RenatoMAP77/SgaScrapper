@@ -6,7 +6,7 @@ Este projeto está na sua versão inicial (v1) e realiza uma raspagem de dados p
 
 ## Captura de Tela
 
-| <img src="sga.png" width="1000px" alt="SGA"> |
+| <img src="/SgaScrapper/img/image.png" width="1000px" alt="SGA"> |
 |:--------------------------------------------:|
 | **Sistema de Gestão Acadêmica (SGA)** |
 
